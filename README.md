@@ -4,6 +4,9 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
+[![IBM Specialization Completed](https://img.shields.io/badge/IBM-Specialization_Completed-0530ad?style=flat-square&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/74AYQO9U6NZ3)
+[![Credly Badge](https://img.shields.io/badge/Credly-Verified_Badge-orange?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/53ae162e-7eb0-4509-9ffc-147c2096596e/public_url)
+
 This microservice provides a robust API for managing customer data within an e-commerce ecosystem. It was developed as the final Capstone Project for the IBM DevOps and Software Engineering Professional Certificate.
 
 # Project Overview
